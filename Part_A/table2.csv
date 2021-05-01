@@ -1,0 +1,6 @@
+Website,Network operator,Average Link Load time,Number of dead links,Number of working links,Website score
+https://www.usa.gov/,Airtel,1141.04991087344,0,561,0.0
+https://www.isro.gov.in/,Airtel,1166.2745098039218,1,102,0.011271037473502518
+https://www.bits-pilani.ac.in/,Airtel,1379.2667968749993,1,512,0.06157260148344115
+https://nrega.nic.in/netnrega/home.aspx,Airtel,1951.8496,12,125,0.2500479724767431
+https://medium.com/,Airtel,3106.6024999999986,0,80,0.5
